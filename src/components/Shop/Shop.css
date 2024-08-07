@@ -12,3 +12,11 @@
   .shop-section h2 {
     text-align: center;
   }
+
+
+  ul {
+    list-style: none;
+    padding: 0;
+    border: 1px solid #000;
+    border-radius: 5px;
+  }
